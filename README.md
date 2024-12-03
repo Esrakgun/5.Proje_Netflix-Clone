@@ -13,8 +13,6 @@ Projenin kullanımı gayet basit bir arayüz ile oluşturulmuştur.
 
 Html
 Css
-Javascript
 Visual Studio Code
-Proje Bağlantı Linki
 
-# Netflix-Projesi Ekran Görüntüsü
+# Netflix-Projesi Ekran Görüntüsü:
