@@ -15,4 +15,5 @@ Html
 Css
 Visual Studio Code
 
-# Netflix-Projesi Ekran Görüntüsü:
+# Netflix-Projesi Ekran Görüntüsü:![NetflixClone](https://github.com/user-attachments/assets/0d6ba2dd-66c3-4c1d-83fe-0521e0e7d096)
+
