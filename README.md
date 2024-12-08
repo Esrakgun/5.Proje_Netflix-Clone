@@ -1,7 +1,4 @@
 # Netflix-Clone
-
-# Netflix-Projesi
-
 Bu proje Html ve Css birlikte kullanılarak yapılmıştır.
 
 # Netflix-Projesi Özellikleri
