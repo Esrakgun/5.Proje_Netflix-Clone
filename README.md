@@ -1,4 +1,4 @@
-# 5.Proje_Netflix-Clone
+# Netflix-Clone
 
 # Netflix-Projesi
 
